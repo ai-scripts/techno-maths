@@ -1,0 +1,12 @@
+
+:root{--bg:#ffffff;--text:#0b1220;--muted:#5a6b8a;--accent:#2b8aed}
+body{font-family:Arial,Helvetica,sans-serif;margin:0;color:var(--text);background:#f7fafc}
+.container{max-width:1000px;margin:30px auto;padding:20px}
+.header{background:linear-gradient(90deg,#2b8aed,#7dd3fc);color:white;padding:18px;border-radius:8px}
+.nav a{color:white;margin-right:12px;text-decoration:none;font-weight:700}
+.card{background:white;padding:14px;border-radius:8px;box-shadow:0 6px 20px rgba(11,18,32,0.06);margin-bottom:12px}
+.kicker{color:var(--muted);font-size:12px}
+.btn{background:var(--accent);color:white;padding:8px 12px;border-radius:8px;text-decoration:none;display:inline-block}
+footer{color:var(--muted);font-size:14px;margin-top:20px;text-align:center}
+.note{background:#eef7ff;padding:10px;border-left:4px solid #7dd3fc;margin:12px 0;border-radius:6px}
+details{background:#fbfdff;padding:10px;border-radius:6px;border:1px solid #eef6ff;margin-top:8px}
